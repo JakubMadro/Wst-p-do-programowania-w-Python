@@ -6,4 +6,3 @@ if var2<var1:
 
 while var1<=var2:
     print(var1,end=",")
-    var1+=1
