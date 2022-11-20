@@ -1,0 +1,4 @@
+
+zwierzeta = []
+
+zwierzeta = [""]
